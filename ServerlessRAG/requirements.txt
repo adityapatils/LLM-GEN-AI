@@ -1,0 +1,7 @@
+phidata 
+psycopg2 
+sqlalchemy 
+pgvector 
+openai 
+pypdf 
+groq
